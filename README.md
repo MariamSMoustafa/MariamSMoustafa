@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning at Information Technology Institution in Alexandria **Open Source track**
 
 - 📫 How to reach me **mariansaad585@gmail.com**
-- 
-![previewfile_2217383700](https://user-images.githubusercontent.com/99190135/219154014-53dc504e-d35e-4259-9aa7-32129f883b64.gif)
-
+![Content_Main_image](https://user-images.githubusercontent.com/99190135/219155728-eca9bd6e-a582-41c6-a97d-b5e4e396a8ef.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mariamsmoustaf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mariamsmoustaf1" height="30" width="40" /></a>
